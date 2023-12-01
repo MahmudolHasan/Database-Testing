@@ -17,3 +17,6 @@ Before getting started, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/your-project.git 
    ```
+2.**Download the database**
+In this project ,we worked with a sample databses provided by [mysqltutorial.com](https://www.mysqltutorial.org/wp-content/uploads/2023/10/mysqlsampledatabase.zip).
+Also the databse is stored in this project,so it can be used from this repository.

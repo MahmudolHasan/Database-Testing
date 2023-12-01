@@ -1,4 +1,3 @@
-# Database-Testing
 # Database-Testing-with-MySQL
 
 ## Overview
